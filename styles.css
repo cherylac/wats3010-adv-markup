@@ -12,7 +12,7 @@ nav ul li {
     padding: 5px;
 }
 
-/* sidebar styles */
+/* Sidebar Styles */
     #sidebar {
         float: right;
         width: 25%;
@@ -21,3 +21,10 @@ nav ul li {
         padding: 10px;
         border: 1px;
     }
+    
+/* Table Styles */
+table   {
+    width: 100%;
+    text-align: left;
+}
+
