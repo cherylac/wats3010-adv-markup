@@ -1,1 +1,23 @@
 /* Styles for the Advanced Markup assignment. */
+
+nav ul li {
+    display: inline;
+    border: solid 1px black;
+    padding: 5px;
+}
+
+.active {
+    font-weight: 900;
+    background: #cccccc;
+    padding: 5px;
+}
+
+/* sidebar styles */
+    #sidebar {
+        float: right;
+        width: 25%;
+        background: pink;
+        margin: 20px;
+        padding: 10px;
+        border: 1px;
+    }
