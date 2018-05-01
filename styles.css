@@ -1,5 +1,12 @@
 /* Styles for the Advanced Markup assignment. */
 
+/* About Page Styles */
+
+dt {
+    font-weight: 900;
+    }
+
+/* Navigation Styles */
 nav ul li {
     display: inline;
     border: solid 1px black;
