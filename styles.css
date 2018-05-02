@@ -5,7 +5,17 @@
 dt {
     font-weight: 900;
     }
-
+.bio-photo {
+    width: 25%;
+    float: left;
+    background: #cccccc;
+    margin: 10px;
+    padding: 5px;
+}
+bio-photo img {
+    width: 100%;
+    height: auto;
+}
 /* Navigation Styles */
 nav ul li {
     display: inline;
@@ -23,11 +33,11 @@ nav ul li {
     #sidebar {
         float: right;
         width: 25%;
-        background: pink;
+        background: #FF7F50;
         margin: 20px;
-        padding: 10px;
-        border: 1px;
-    }
+        padding: 10px;   
+        border: solid 2px black;
+}
     
 /* Table Styles */
 table   {
