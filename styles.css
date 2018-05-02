@@ -1,7 +1,20 @@
 /* Styles for the Advanced Markup assignment. */
 
+/* Home Page Styles */
+ul {
+    list-style-type: none;
+}
+.poem {
+    font-style: oblique;
+    font-weight: 700;
+    width: 25%;
+    height: auto;
+    padding: 10px;
+    margin: 20px;
+    background-color: BurlyWood;
+    line-height: 20px;
+}
 /* About Page Styles */
-
 dt {
     font-weight: 900;
     }
@@ -22,7 +35,6 @@ nav ul li {
     border: solid 1px black;
     padding: 5px;
 }
-
 .active {
     font-weight: 900;
     background: #cccccc;
@@ -44,4 +56,6 @@ table   {
     width: 100%;
     text-align: left;
 }
+
+
 
