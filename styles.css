@@ -12,7 +12,7 @@ ul {
     padding: 10px;
     margin: 20px;
     background-color: BurlyWood;
-    line-height: 20px;
+    line-height: 30px;
 }
 /* About Page Styles */
 dt {
@@ -59,4 +59,10 @@ table   {
 tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
 
+/* All Page Styles */
+h1 {
+    font-family: serif;
+    background: #CCC;
+    border-bottom: 1px solid black;
+}
 
